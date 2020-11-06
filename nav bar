@@ -1,15 +1,15 @@
 <html>
   <body>
     <ul>
-      <li><a href="index.html"> Home</a></li>
+      <li><a href="index.html"> Home</a> </li>
       <li> Apps </li>
       <li> Art </li>
       </ul>
     
   </body>
 
-        
-        ul {
+        <style>
+        <ul> {
  list-style-type: none;
   margin: 0;
   padding: 0;
@@ -25,5 +25,6 @@ li {
 li a:hover {
   background-color: #ff1088;
 }
+</style>
 </html>
 
