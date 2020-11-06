@@ -15,8 +15,6 @@
   padding: 0;
   background-color: antiquewhite;
   width: 100%;
-  
-
 }
 
 li {
