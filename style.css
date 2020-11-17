@@ -1,0 +1,27 @@
+body {
+background-color: lightpink; 
+color: gray;
+text-align: center;
+font-size: 70px;
+     top:100px;
+}
+
+
+ul {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+  width: 100%;
+  position:absolute;
+  top:0;
+ 
+   }
+   li {
+  padding: 20px 60px;
+  display: inline;
+}
+
+li a:hover {
+  background-color: #ff1088;
+} 
