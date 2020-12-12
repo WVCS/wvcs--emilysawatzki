@@ -17,3 +17,14 @@ ul {
   top:0;
  
    }
+div.sticky{
+  color:blue;
+  position:sticky;
+  background-color: lightpink;
+    border: 2px dotted black; 
+  max-width: 500px;
+  top: 0;
+}
+.sticky{
+  text-align:center;
+}
